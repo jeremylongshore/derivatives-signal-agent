@@ -2,6 +2,8 @@
 
 AI-powered derivatives market analysis that aggregates funding rates, open interest, order book depth, liquidations, and long/short ratios across exchanges — then produces directional bias scores using Claude AI.
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U5S225PTME)
+
 ## What It Does
 
 - Fetches real-time derivatives data from **Bybit** (free) and **Coinglass** ($29/mo)
